@@ -79,8 +79,8 @@ python main.py
 
 ## 📸 Demo
 
-![Game Demo](demo_turtlecross.png)
-!![Game Demo](demo2_turtlecross.png)
+![Game Demo](images/demo_turtlecross.png)
+![Game Demo](images/demo2_turtlecross.png)
 
 ---
 
